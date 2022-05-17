@@ -1,0 +1,1 @@
+rootProject.name = "com.arifahmadalfian.ktor-jwt-auth"
